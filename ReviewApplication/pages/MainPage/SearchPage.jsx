@@ -1,7 +1,6 @@
 import React from 'react'
-import Img from '../../src/assets/image.jpg'
-import './SearchPage.css'
 import Header from '../../components/Header'
+import './SearchPage.css'
 const SearchPage = () => {
   return (
     <div className='main-page'>
