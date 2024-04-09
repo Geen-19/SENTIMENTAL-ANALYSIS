@@ -1,15 +1,13 @@
-import './App.css'
-import SearchPage from '../pages/MainPage/SearchPage'
+import "./App.css";
+import SearchPage from "../pages/MainPage/SearchPage";
 function App() {
-
   return (
     <>
-    <div className='search'>
-    <SearchPage />
-    </div>
-      
+      <div className="search">
+        <SearchPage />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
